@@ -90,5 +90,9 @@ Contributions, improvements, and suggestions are welcome!
 * Create a feature branch
 * Submit a pull request
 
+### 🙏 Acknowledgements
+Special thanks to Angelina Frimpong, a Data Professional, whose video guidance helped me greatly in understanding and implementing Cohort Retention Analysis.
+[Watch the Video](https://www.youtube.com/watch?v=LXqpx9mr0Is)
+
 ### 📬 Contact
 If you have questions or want to discuss data analytics, SQL, or Tableau: shreeramprajapati2@gmail.com
