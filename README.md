@@ -68,7 +68,7 @@ Key data preparation steps:
 ### Tableau Dashboard
 🔗 **Dashboard Link**  
 👉 [Cohort Retention Dashboard (Tableau Public)](https://public.tableau.com/views/CohortRetentionDashboard_17669206022670/CohortRetentionDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-
+https://public.tableau.com/views/CohortRetentionDashboard_17669206022670/CohortRetentionDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ### Dashboard Features
 1. Cohort retention heatmap
